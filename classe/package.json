@@ -12,6 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "knex": "^0.95.11",
+    "nodemailer": "^6.7.0",
+    "nodemailer-express-handlebars": "^4.0.0",
     "pg": "^8.7.1"
   },
   "devDependencies": {
